@@ -1,6 +1,6 @@
-# SheetSync Catalog 📋✨
+# SmartCatalog 📋✨
 
-**SheetSync Catalog** es un sistema Full Stack de gestión de productos diseñado para cerrar la brecha entre la carga de datos manual y la generación de activos comerciales (PDF). 
+**SmartCatalog** es un sistema Full Stack de gestión de productos diseñado para cerrar la brecha entre la carga de datos manual y la generación de activos comerciales (PDF). 
 
 Este proyecto nace de una necesidad real: permitir que un usuario sin conocimientos técnicos pueda actualizar su catálogo, mantener un Excel sincronizado para sus clientes y generar volantes de venta profesionales con un solo clic, sin depender de terceros.
 
